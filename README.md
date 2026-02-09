@@ -19,11 +19,10 @@ This project was created to practice Flutter development, including state manage
 ## Screenshots
 
 Home Screen:  
-![Home Screen](Screenshots/todoScreenShot.jpg)
-
+![Home Screen].(todoScreenShot.jpg).
 Search Screen:  
-![Search Screen](Screenshots/todoShot3(2).jpg)
+![Search Screen](todoShot3(2).jpg)
 
 Done Screen:  
-![Done Screen](Screenshots/todoShot3(1).jpg)
+![Done Screen](todoShot3(1).jpg)
 
