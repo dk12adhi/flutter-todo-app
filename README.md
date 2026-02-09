@@ -15,3 +15,15 @@ A Flutter-based todo list application with local storage, task filtering, and pr
 
 ## Purpose
 This project was created to practice Flutter development, including state management, local storage, and UI components.
+
+## Screenshots
+
+Home Screen:  
+![Home Screen](Screenshots/todoScreenShot.jpg)
+
+Search Screen:  
+![Search Screen](Screenshots/todoShot3(2).jpg)
+
+Done Screen:  
+![Done Screen](Screenshots/todoShot3(1).jpg)
+
